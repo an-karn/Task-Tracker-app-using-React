@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Task Tracker with React App
+
+## Description
+The following app is a task tracker app that has 3 basic entries: Task, Time and Reminder. You can use it in daily life to maintain tasks and reminders.
+
+Functionalities: First of all there is add button which can be clicked to add an event and reminder could be checkboxed in order to view reminder or not view reminder. When you click, add a form will appear and button will be changed to closed. After adding the event you 
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
