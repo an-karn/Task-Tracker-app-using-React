@@ -6,6 +6,10 @@ The following app is a task tracker app that has 3 basic entries: Task, Time and
 Functionalities: First of all there is add button which can be clicked to add an event and reminder could be checkboxed in order to view reminder or not view reminder. When you click, add a form will appear and button will be changed to closed. After adding the event you 
 
 
+![main_interface](https://user-images.githubusercontent.com/73000507/148305752-9b48a6d9-b0e3-46f8-8c09-ea1a1bf62595.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
