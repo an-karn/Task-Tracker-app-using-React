@@ -3,7 +3,8 @@
 ## Description
 The following app is a task tracker app that has 3 basic entries: Task, Time and Reminder. You can use it in daily life to maintain tasks and reminders.
 
-Functionalities: First of all there is add button which can be clicked to add an event and reminder could be checkboxed in order to view reminder or not view reminder. When you click, add a form will appear and button will be changed to closed. After adding the event you 
+Functionalities: First of all there is add button which can be clicked to add an event and reminder could be checkboxed in order to view reminder or not view reminder. When you click, add a form will appear and button will be changed to closed. After adding the event you can see the button changes to close and then you can click on it to close the form. After saving the changes, you can see that the event is displayed just below as shown in figure. There is a cross symbol which you can click to cancel the event. The green on the left side shows if reminder is on or off and we can simply change it by double clicking on the event.
+
 
 
 ![main_interface](https://user-images.githubusercontent.com/73000507/148305752-9b48a6d9-b0e3-46f8-8c09-ea1a1bf62595.png)
